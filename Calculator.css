@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(198, 94, 127);
+}
+h1{
+    margin-bottom: -5vmax;
+    text-align: center;
+    
+}
+.container{
+    width: 51vmax;
+    margin: auto;
+    margin-top: 8vmax;
+    padding: 1vmax;
+    background-color: rgb(116, 49, 60);
+    padding-top: 5vmax;
+    border-radius: 10vmax;
+}
+div>input{
+    width: 35vmax;
+    height:5vh;
+    margin-top: 2vmax ;
+    margin-left: 4vmax;
+    outline: none;
+    background-color: rgb(74, 68, 68);
+    border-radius: 1vmax;
+    color: rgb(247, 242, 242);
+}
+div>button{
+    width: 5vmax;
+    height: 5vmax;
+    margin-top: 1.5vmax;
+    margin-left: 2vmax;
+    background-color: rgb(79, 77, 77);
+    color: white;
+    border-radius: 2vmax;
+    font-size: medium;
+    color: white;
+    cursor: pointer;
+}
+div>.btn{
+    width: 90%;
+    margin: auto;
+    padding: 1vmax;
+}
+.ab{
+   display: flex;
+
+}
+
+.rows>button{
+    margin-right: 9vmax ;
+    height: 11.5vmax;
+}
+button:hover{
+    background-color: rgb(35, 34, 34);
+}
+div>.on{
+    background-color: red;
+}
